@@ -1,7 +1,7 @@
 library shared_prefs_manager;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/sp_var.dart';
+export 'src/sp_init.dart';
+export 'src/sp_getters.dart';
+export 'src/sp_setters.dart';
+export 'src/sp_misc.dart';
