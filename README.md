@@ -23,9 +23,5 @@ getIntValue("myIntValue");
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
-
 * The documentation for the SharedPreferences package (as of 9/28/2022) is [here](https://docs.flutter.dev/cookbook/persistence/key-value).
 * If you find a bug, file an issue or send a merge request with the fix.
