@@ -1,3 +1,2 @@
 ## 0.0.1
-
-* TODO: Describe initial release.
+* Full API is done. However, untested.
